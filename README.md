@@ -2,6 +2,11 @@
 ## CPU Usage Monitor
 This Bash script provides a simple way to monitor the CPU usage on the Ubuntu terminal. It displays the current CPU usage as a percentage.
 
+<video width="20" height="120" controls>
+  <source src="/assets/status.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 ### Prerequisites
 Ubuntu operating system
 Bash shell
